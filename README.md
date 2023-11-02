@@ -10,9 +10,8 @@
 サインアップ方法：
 利用者が画面右上のスタッフをクリックし、入力
 管理者が管理サイトにて申請のあったスタッフを追加する
-（メール認証機能はありません）
-
-メール認証機能付きバージョンはこちら　https://github.com/hasegawashuji/meetingroom-mail
+（emailアドレスをユーザーIDとしますが、メール受信認証機能ではありません
+メール受信認証機能付きバージョンはこちら　https://github.com/hasegawashuji/meetingroom-mail　をご利用ください）
 
 
 ## 画面遷移
